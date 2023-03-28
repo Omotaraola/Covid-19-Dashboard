@@ -15,7 +15,7 @@ Data was scraped from the web (COVID19/GitHub) into MSExcel, as this will enable
 - Dashboard Visualization was created using Pivot Table.
 
 ## Data Transformation
-A three time series data tables was scrapped from github. They were merged on power query to create one consolidated data table. New columns (month, year and day) were created, to match the real time data.
+A three time series data tables was scrapped from github. These tables were merged on power query to create one consolidated data table. New columns (month, year and day) were created, to match the real time data.
 
 ![](Consolidated%20Data.png)
 
@@ -37,11 +37,11 @@ The United state ranks 1st with highest death rate of Covid_19 since 2020
 
 ![](Highest%20Death%20Rate.png)
 
-While India came 2nd country with high confirmed case of Covid-19, The country ranked NO.1 for recovery cases for the world.
+While India came 2nd country with high confirmed case of Covid-19, the country ranked NO.1 for recovery cases for the world.
 
 ![](Top%205%20Recovered%20Countries.png)
 
 ## Conclusion
 - Countries with lesser population and low production activities are less prone to the covid-19 virus. 
-- Proper precautions and vaccines taken by inviduals in countries with high population, reduces the confirmed cases and death rate, and this will enhance high recovery rate. Gradually the Virus spread, will be reduced in whole world at large.
+- Proper precautions and vaccines taken by inviduals in countries with high population, reduces the confirmed cases and death rate, and this will enhance high recovery rate. Gradually the Virus spread, will be reduced in the whole world at large.
 
